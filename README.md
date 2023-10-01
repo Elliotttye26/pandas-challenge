@@ -6,3 +6,5 @@ In this challenge we take district wide and school level information on standard
 
 #Two Conclusions from the Calculations
 
+
+#citations used to assist with functions, errors and troubleshooting, and general python and pandas.
